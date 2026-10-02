@@ -1,0 +1,12 @@
+,Data Type,Missing,Unique,Duplicate
+Unnamed: 0,int64,0,1000,0
+Age,int64,0,53,0
+Sex,object,0,2,0
+Job,int64,0,4,0
+Housing,object,0,3,0
+Saving accounts,object,183,4,0
+Checking account,object,394,3,0
+Credit amount,int64,0,921,0
+Duration,int64,0,33,0
+Purpose,object,0,8,0
+Risk,object,0,2,0
